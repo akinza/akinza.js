@@ -1,0 +1,38 @@
+{
+  "name": "akinza.js",
+  "version": "1.0.0",
+  "description": "Yet another vanilla.",
+  "main": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.6.1",
+    "lodash": "^4.17.4",
+    "lodash.assign": "^4.2.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.9.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akinza/akinza.js.git"
+  },
+  "keywords": [
+    "vanilla",
+    "javascript",
+    "ecma",
+    "js",
+    "fastest",
+    "library",
+    "amd"
+  ],
+  "author": "Sanjay Rabidas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akinza/akinza.js/issues"
+  },
+  "homepage": "https://github.com/akinza/akinza.js#readme"
+}
